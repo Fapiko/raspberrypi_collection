@@ -1,4 +1,4 @@
-raspberrypi_collection
+Raspberry Pi Script Collection
 ======================
 
-Misc. scripts I've written while playing around with my raspberry pi.
+This is a collection of miscellaneous scripts I've written whilst playing with my Raspberry Pi. I likely won't put anything too substantial here, larger projects will go in their own repository.
