@@ -26,7 +26,6 @@ def resistorTimerReading(ioPort):
 
 while True:
 	lightLevel = resistorTimerReading(18)
-	print lightLevel
 	if lightLevel >= 800:
 		previousLedState = ledState
 		ledState = True
